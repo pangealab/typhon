@@ -1,2 +1,3 @@
-# typhon
-Alpine based Tor Proxy Anonymizer
+![Intro](./docs/typhon.png)
+
+Fluent Bit for Amazon EKS and Amazon ES (Elasticsearch)
